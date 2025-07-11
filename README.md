@@ -33,19 +33,19 @@ A Wordle-inspired guessing game app with customizable word length, guess limits,
 **Learnings**: iOS development, UI design, game logic, feature debugging
 
 ### 🌍 [globetrail (Figma)](https://devpost.com/software/globetrail)  
-Designed a travel planning app prototype that streamlines itinerary creation with personalized recommendations and collaborative trip features.
-**Tools**: Figma  
+Designed a travel planning app prototype that streamlines itinerary creation with personalized recommendations and trip features.  
+**Tech**: Figma  
 **Learnings**: Intuitive interface design, user navigation, user experience
 
 ### 🎨 [cnn-website-redesign (Figma)](https://www.figma.com/file/VVHWuTWgRzlcptOV8LOoE0/CNN-Website-Redesign)  
-Accessibility-focused redesign improving usability for elderly and neurodivergent users.
-**Tools**: Figma  
+Accessibility-focused redesign improving usability for elderly and neurodivergent users.  
+**Tech**: Figma  
 **Learnings**: Inclusive design, user research, prototyping
 
 ### 🧾 [smartbid](https://github.com/saanavig/SmartBid)  
-A mini e-bidding platform supporting live auctions, user authentication, and backend storage.
+A mini e-bidding platform supporting live auctions, user authentication, and backend storage.  
 **Tech**: JavaScript, Python, Django, Supabase, HTML/CSS, Figma  
-**Learnings**: Full-stack development, frontend design, and working with live user data.
+**Learnings**: Full-stack development, frontend design, working with live user data
 
 ---
 
