@@ -18,7 +18,7 @@ Always learning, always building — feel free to connect!
 ## 🎯 Currently Working On..
 
 ### 🚧 [yoniki]()  
-Building a voice assistant with speech-to-text and text-to-speech, integrated into a React dashboard featuring calendar, weather, and task management.
+Building a voice assistant with speech-to-text and text-to-speech, integrated into a React dashboard featuring calendar, weather, and task management.  
 **Tech**: Python, Flask, React, Web Speech API, Supabase  
 **Status**: In progress (Jun 2025 – Present)  
 **Learnings**: Voice interfaces, full-stack integration, real-time data, user authentication
