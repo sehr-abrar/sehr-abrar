@@ -37,7 +37,7 @@ Designed a travel planning app prototype that streamlines itinerary creation wit
 **Tech**: Figma  
 **Learnings**: Intuitive interface design, user navigation, user experience
 
-### 🎨 [cnn-website-redesign (Figma)](https://www.figma.com/file/VVHWuTWgRzlcptOV8LOoE0/CNN-Website-Redesign)  
+### 🎨 [cnn-website-redesign (Figma)](https://github.com/sehr-abrar/cnn-website-redesign)  
 Accessibility-focused redesign improving usability for elderly and neurodivergent users.  
 **Tech**: Figma  
 **Learnings**: Inclusive design, user research, prototyping
