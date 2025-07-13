@@ -25,7 +25,7 @@ Building a voice assistant with speech-to-text and text-to-speech, integrated in
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🟩 [wordle](https://github.com/sehr-abrar/wordle)  
 A Wordle-inspired guessing game app with customizable word length, guess limits, and modes.  
