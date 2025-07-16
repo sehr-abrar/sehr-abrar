@@ -27,25 +27,25 @@ Building a voice assistant with speech-to-text and text-to-speech, integrated in
 
 ## 🚀 Featured Projects
 
-### 🟩 [wordle](https://github.com/sehr-abrar/wordle)  
+### 🟩 [wordle (iOS)](https://github.com/sehr-abrar/wordle)  
 A Wordle-inspired guessing game app with customizable word length, guess limits, and modes.  
 **Tech**: Swift, UIKit  
 **Learnings**: iOS development, UI design, game logic, feature debugging
 
-### 🌍 [globetrail (Figma)](https://devpost.com/software/globetrail)  
+### 🧾 [smartbid (full-stack)](https://github.com/saanavig/SmartBid)
+A mini e-bidding platform supporting live auctions, user authentication, and backend storage.  
+**Tech**: JavaScript, Python, Django, Supabase, HTML/CSS, Figma  
+**Learnings**: Full-stack development, frontend design, working with live user data
+
+### 🌍 [globetrail (figma)](https://github.com/sehr-abrar/globetrail)  
 Designed a travel planning app prototype that streamlines itinerary creation with personalized recommendations and trip features.  
 **Tech**: Figma  
 **Learnings**: Intuitive interface design, user navigation, user experience
 
-### 🎨 [cnn-website-redesign (Figma)](https://github.com/sehr-abrar/cnn-website-redesign)  
+### 🎨 [cnn-website-redesign (figma)](https://github.com/sehr-abrar/cnn-website-redesign)  
 Accessibility-focused redesign improving usability for elderly and neurodivergent users.  
 **Tech**: Figma  
 **Learnings**: Inclusive design, user research, prototyping
-
-### 🧾 [smartbid](https://github.com/saanavig/SmartBid)  
-A mini e-bidding platform supporting live auctions, user authentication, and backend storage.  
-**Tech**: JavaScript, Python, Django, Supabase, HTML/CSS, Figma  
-**Learnings**: Full-stack development, frontend design, working with live user data
 
 ---
 
