@@ -51,8 +51,8 @@ Accessibility-focused redesign improving usability for elderly and neurodivergen
 
 ## 🛠 Tech Stack
 
-**Languages**: Python, JavaScript/TypeScript, Java, C/C++, SQL, HTML/CSS, Scheme  
-**ML & Data**: Pandas, NumPy, scikit-learn, OpenAI, TensorFlow (basic), LLM-augmented analysis  
+**Languages**: Python, JavaScript/TypeScript, Java, C/C++, SQL, HTML/CSS, Scheme (plus Urdu)
+**ML & Data**: Pandas, NumPy, scikit-learn, OpenAI, TensorFlow (basic), PyTorch (learning) LLM-augmented analysis  
 **Web Dev**: React, Next.js, Flask, Django, Supabase, Tailwind CSS  
 **Design & Tools**: Figma, Git/GitHub, VS Code, Canva  
 **Hardware & Robotics**: Raspberry Pi, ROS 2, sensors, physical prototyping  
