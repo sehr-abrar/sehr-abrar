@@ -3,11 +3,11 @@
 <img src="https://github.com/sehr-abrar/sehr-abrar/blob/main/profile.jpeg" alt="Sehr Abrar" width="350" align="left" />
 
 🎓 Computer Science @ City College of New York '26 (Macaulay Honors)  
-🤖 AI Robotics Research Intern @ Cornell Tech (SROP '25)  
-📊 Break Through Tech AI Fellow (Cornell Tech)  
-💡 Passionate about AI, human-centered design, and educational equity  
+🤖 AI Studio Fellow @ The Estée Lauder Companies Inc.  
+📊 Prev AI & Robotics Intern @ Cornell Tech 
+💡 Passionate about AI and human-centered design  
 
-I’m a first-gen Pakistani-American CS student working at the intersection of AI, UX, and social good. Currently interning at Cornell Tech with the [Interaction Research Lab](https://irl.tech.cornell.edu/), I prototype service robots and explore how people interact with intelligent systems through language and movement.
+I’m a first-gen Pakistani-American CS student working at the intersection of AI, UX, and social good. Currently an AI Studio Fellow at The Estée Lauder Companies Inc. via the [Break Through Tech](https://www.breakthroughtech.org/programs/the-ai-program/) AI Program., I prototype service robots and explore how people interact with intelligent systems through language and movement.
 
 As the **former President of [ACM at CCNY](https://beaverscode.club/)**, I led a 500+ member tech org and built spaces for students to learn ML, cybersecurity, web dev, and more through hands-on workshops and speaker events. Whether designing interfaces or building models, I care deeply about impact, clarity, and collaboration.
 
@@ -32,31 +32,26 @@ A Wordle-inspired guessing game app with customizable word length, guess limits,
 **Tech**: Swift, UIKit  
 **Learnings**: iOS development, UI design, game logic, feature debugging
 
-### 🧾 [smartbid (full-stack)](https://github.com/saanavig/SmartBid)
-A mini e-bidding platform supporting live auctions, user authentication, and backend storage.  
-**Tech**: JavaScript, Python, Django, Supabase, HTML/CSS, Figma  
-**Learnings**: Full-stack development, frontend design, working with live user data
-
 ### 🌍 [globetrail (figma)](https://github.com/sehr-abrar/globetrail)  
 Designed a travel planning app prototype that streamlines itinerary creation with personalized recommendations and trip features.  
 **Tech**: Figma  
 **Learnings**: Intuitive interface design, user navigation, user experience
 
-### 🎨 [cnn-website-redesign (figma)](https://github.com/sehr-abrar/cnn-website-redesign)  
-Accessibility-focused redesign improving usability for elderly and neurodivergent users.  
-**Tech**: Figma  
-**Learnings**: Inclusive design, user research, prototyping
+### 🧾 [smartbid (full-stack)](https://github.com/saanavig/SmartBid)
+A mini e-bidding platform supporting live auctions, user authentication, and backend storage.  
+**Tech**: JavaScript, Python, Django, Supabase, HTML/CSS, Figma  
+**Learnings**: Full-stack development, frontend design, working with live user data
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**: Python, JavaScript/TypeScript, Java, C/C++, SQL, HTML/CSS, Scheme (plus Urdu)
-**ML & Data**: Pandas, NumPy, scikit-learn, OpenAI, TensorFlow (basic), PyTorch (learning) LLM-augmented analysis  
-**Web Dev**: React, Next.js, Flask, Django, Supabase, Tailwind CSS  
-**Design & Tools**: Figma, Git/GitHub, VS Code, Canva  
-**Hardware & Robotics**: Raspberry Pi, ROS 2, sensors, physical prototyping  
-**Other**: REST APIs, Agile, WordPress, Bash scripting
+- **Languages:** Python, JavaScript/TypeScript, Swift, Java, C/C++, SQL (PostgreSQL), HTML/CSS, Scheme, Urdu (fluent)  
+- **Frameworks & Libraries:** React, Next.js, Flask, Django, Tailwind CSS, UIKit, WordPress  
+- **Machine Learning & Data:** Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, OpenAI API, Prompt Engineering  
+- **Tools & Platforms:** Git/GitHub, Docker, VS Code, Xcode, Visual Studio, PyCharm, Eclipse, Supabase, Figma, Canva  
+- **Hardware & Robotics:** Raspberry Pi, ROS 2, Sensors, ODrive, Physical Prototyping  
+
 
 ---
 
