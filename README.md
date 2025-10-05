@@ -3,8 +3,8 @@
 <img src="https://github.com/sehr-abrar/sehr-abrar/blob/main/profile.jpeg" alt="Sehr Abrar" width="350" align="left" />
 
 🎓 Computer Science @ City College of New York '26 (Macaulay Honors)  
-🤖 AI Studio Fellow @ The Estée Lauder Companies Inc.  
-📊 Prev AI & Robotics Intern @ Cornell Tech 
+🤖 Current AI Studio Fellow @ The Estée Lauder Companies Inc.  
+📊 Prev AI & Robotics Intern @ Cornell Tech &  Lead UI/UX Designer & Beta Tester Intern @ Unadat
 💡 Passionate about AI and human-centered design  
 
 I’m a first-gen Pakistani-American CS student working at the intersection of AI, data, UX, and social good. Currently an AI Studio Fellow at The Estée Lauder Companies Inc. via the [Break Through Tech](https://www.breakthroughtech.org/programs/the-ai-program/) AI Program., I prototype service robots and explore how people interact with intelligent systems through language and movement.
