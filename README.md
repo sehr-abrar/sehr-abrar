@@ -3,6 +3,7 @@
 <img src="https://github.com/sehr-abrar/sehr-abrar/blob/main/profile.jpeg" alt="Sehr Abrar" width="350" align="left" />
 
 🎓 Computer Science @ City College of New York '26 (Macaulay Honors)  
+🤖 Current Data Research Intern @ MHC  
 🤖 Current AI/ML Fellow @ Break Through Tech  
 📊 Prev AI Studio Fellow @ Estée Lauder, AI & Robotics Intern @ Cornell Tech, & Lead UI/UX Designer & Beta Tester Intern @ Unadat  
 💡 Passionate about AI and human-centered design  
