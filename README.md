@@ -1,6 +1,6 @@
 # Hi, I'm Sehr Abrar 👋
 
-<img src="https://github.com/sehr-abrar/sehr-abrar/blob/main/profile.jpeg" alt="Sehr Abrar" width="380" align="left" />
+<img src="https://github.com/sehr-abrar/sehr-abrar/blob/main/profile.jpeg" alt="Sehr Abrar" width="400" align="left" />
 
 🎓 CS @ Macaulay Honors College @ CUNY: The City College of New York '26  
 💼 Incoming @ ...  
