@@ -3,7 +3,7 @@
 <img src="https://github.com/sehr-abrar/sehr-abrar/blob/main/profile.jpeg" alt="Sehr Abrar" width="380" align="left" />
 
 🎓 CS @ Macaulay Honors College @ CUNY: The City College of New York '26  
-💼 Incoming @ ... 
+💼 Incoming @ ...  
 🤖 AI/ML Fellow @ **Break Through Tech** (Agentic AI — 1 of 50 selected)  
 ⚡ UX Design Scholar @ **Mentor Me Collective** (495 of 9,0000+ selected)  
 📍 New York, NY · First-gen Pakistani-American in tech
