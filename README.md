@@ -52,14 +52,6 @@ Mini auction platform with live bidding, user auth, and backend storage.
 
 ---
 
-### 📱 [wordle (iOS)](https://github.com/sehr-abrar/wordle)
-Wordle-inspired word guessing game with customizable word length, guess limits, and modes.
-
-**Tech:** Swift, UIKit  
-**Learnings:** Game logic, iOS UI patterns, feature debugging
-
----
-
 ## 🛠 Technical Skills
 
 ### 💻 Languages
