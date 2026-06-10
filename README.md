@@ -2,31 +2,37 @@
 
 <img src="https://github.com/sehr-abrar/sehr-abrar/blob/main/profile.jpeg" alt="Sehr Abrar" width="400" align="left" />
 
-🎓 CS @ Macaulay Honors College @ CUNY: The City College of New York '26  
-💼 Incoming @ ...  
-🤖 AI/ML Fellow @ **Break Through Tech** (Agentic AI — 1 of 50 selected)  
-⚡ UX Design Scholar @ **Mentor Me Collective** (495 of 9,0000+ selected)  
-📍 New York, NY · First-gen Pakistani-American in tech
+🎓 B.S. Computer Science • Macaulay Honors College @ The City College of New York (2026)  
+💼 Incoming Technical Business Analyst @ Healthfirst  
+🤖 AI Engineer • ML Systems • Product & Data Builder
+📍 New York, NY
 
-I work at the intersection of **AI, data, and human-centered design** — building things that make complex systems feel intuitive for real people. From deploying robots in NYC parks and running causal inference on 18,000-customer RCTs, to building LLM agents and iOS apps, I care about impact, clarity, and collaboration. 
+I build AI systems and data-driven products that turn complex workflows into practical tools for real people.
 
-As the **founder of ACM Builds** and former **President of [ACM @ CCNY](https://ccny.acm.org/)**, I grew a 500+ member tech community through 40+ workshops, speaker panels, and a mentorship program I built from scratch.
+My work spans agentic AI, machine learning, causal inference, robotics research, and human-computer interaction through roles at Cornell Tech, Estée Lauder, CUNY: Macaulay Honors College, and more.
+
+During undergrad, I founded ACM Builds and served as President of [ACM @ CCNY](https://ccny.acm.org/), where I grew a 500+ member technical community and led 40+ workshops, speaker events, and mentorship programs.
 
 Always learning, always building, feel free to connect! ✨
 
 ---
 
-## 🎯 Currently Working On
+## 🎯 Focus Areas
+- AI201: Applications of AI Engineering @ CodePath
+- Grow with Google: UX Design @ Mentor Me Collective
+- Building AI and data-driven products for healthcare and education systems
+
+---
+
+## 🚀 Featured Projects
 
 ### 🤖 [APPLiED](https://github.com/angeleanne-enriquez/APPLiED)
 An LLM-powered agent that matches users to live job listings and auto-generates tailored resumes and cover letters end-to-end. Tested with 20+ users.
 
 **Tech:** Python, Flask, PostgreSQL, LangGraph, Gemini API  
-**Status:** Shipped & Iterating ✅
+**Learnings:** Agentic LLM workflows, retrieval + generation pipeline, backend API design, and database-backed application architecture
 
 ---
-
-## 🚀 Featured Projects
 
 ### 📍 [palate](https://github.com/palate-ios102/palate)
 End-to-end iOS app for capturing dishes and building a shared community food map with geo-pinned posts, social feed, profiles, and Firebase auth.
@@ -41,14 +47,6 @@ Causal analysis of surprise gifts on customer spending using an 18,000-customer 
 
 **Tech:** Python, Pandas, scikit-learn, ML Regression-Adjusted Treatment Effect Estimators  
 **Learnings:** Causal inference, RCTs, translating ML results into business decisions
-
----
-
-### 🧾 [smarbid](https://github.com/saanavig/SmartBid)
-Mini auction platform with live bidding, user auth, and backend storage.
-
-**Tech:** JavaScript, Python, Django, Supabase, HTML/CSS, Figma  
-**Learnings:** Full-stack development, relational data, live user flows
 
 ---
 
