@@ -32,6 +32,7 @@ A cross-platform mobile platform that helps users discover local cafes, track vi
 **Tech:** React Native (Expo), TypeScript, Python (Flask), Supabase (PostgreSQL), AI-based recommendation services
 **Learnings:** Frontend development with React Native, designing UX workflows, and integrating and working with APIs
 
+---
 
 ### 🤖 [APPLiED](https://github.com/angeleanne-enriquez/APPLiED)
 An LLM-powered agent that matches users to live job listings and auto-generates tailored resumes and cover letters end-to-end. Tested with 20+ users.
