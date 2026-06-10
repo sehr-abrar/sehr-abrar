@@ -26,6 +26,13 @@ Always learning, always building, feel free to connect! ✨
 
 ## 🚀 Featured Projects
 
+### 🤖 [CafeHop](https://github.com/saanavig/CafeHop)
+A cross-platform mobile platform that helps users discover local cafes, track visits, earn rewards, and share reviews. Includes AI-powered recommendations and a dual-sided system for both users and cafe owners to engage and grow their presence.
+
+**Tech:** React Native (Expo), TypeScript, Python (Flask), Supabase (PostgreSQL), AI-based recommendation services
+**Learnings:** Frontend development with React Native, designing UX workflows, and integrating and working with APIs
+
+
 ### 🤖 [APPLiED](https://github.com/angeleanne-enriquez/APPLiED)
 An LLM-powered agent that matches users to live job listings and auto-generates tailored resumes and cover letters end-to-end. Tested with 20+ users.
 
