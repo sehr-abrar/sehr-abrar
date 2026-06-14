@@ -26,7 +26,7 @@ Always learning, always building, feel free to connect! ✨
 
 ## 🚀 Featured Projects
 
-### 🤖 [cafehop](https://github.com/saanavig/CafeHop)
+### ☕️ [cafehop](https://github.com/saanavig/CafeHop)
 A cross-platform mobile platform that helps users discover local cafes, track visits, earn rewards, and share reviews. Includes AI-powered recommendations and a dual-sided system for both users and cafe owners to engage and grow their presence.
 
 **Tech:** React Native (Expo), TypeScript, Python (Flask), Supabase (PostgreSQL), AI-based recommendation services
@@ -51,7 +51,7 @@ End-to-end iOS app for capturing dishes and building a shared community food map
 ---
 
 ### 📊 [unwrapping-customer-delight](https://github.com/sehr-abrar/estee-lauder-1b)
-Causal analysis of surprise gifts on customer spending using an 18,000-customer RCT. Found a **4.2% average revenue lift** and **12% increase** in high-value customer spending — insights adopted in marketing strategy.
+Causal analysis of surprise gifts on customer spending using an 18,000-customer RCT. Found a **4.2% average revenue lift** and **12% increase** in high-value customer spending; insights adopted in marketing strategy.
 
 **Tech:** Python, Pandas, scikit-learn, ML Regression-Adjusted Treatment Effect Estimators  
 **Learnings:** Causal inference, RCTs, translating ML results into business decisions
