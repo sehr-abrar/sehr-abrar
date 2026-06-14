@@ -4,7 +4,7 @@
 
 🎓 B.S. Computer Science • Macaulay Honors College @ The City College of New York (2026)  
 💼 Incoming Technical Business Analyst @ Healthfirst  
-🤖 AI Engineer • ML Systems • Product & Data Builder
+🤖 AI Engineer • ML Systems • Product & Data Builder  
 📍 New York, NY
 
 I build AI systems and data-driven products that turn complex workflows into practical tools for real people.
