@@ -11,7 +11,7 @@ I build AI systems and data-driven products that turn complex workflows into pra
 
 My work spans agentic AI, machine learning, causal inference, robotics research, and human-computer interaction through roles at Cornell Tech, Estée Lauder, CUNY: Macaulay Honors College, and more.
 
-During undergrad, I founded ACM Builds and served as President of [ACM @ CCNY](https://ccny.acm.org/), where I grew a 500+ member technical community and led 40+ workshops, speaker events, and mentorship programs.
+During undergrad, I founded ACM-Builds and served as President of [ACM @ CCNY](https://ccny.acm.org/), where I grew a 500+ member technical community and led 40+ workshops, speaker events, and mentorship programs.
 
 Always learning, always building, feel free to connect! ✨
 
