@@ -20,6 +20,7 @@ Always learning, always building, feel free to connect! ✨
 ## 🎯 Focus Areas
 - AI201: Applications of AI Engineering @ CodePath
 - Grow with Google: UX Design @ Mentor Me Collective
+- Builder @ Hack Your Summer
 - Building AI and data-driven products for healthcare and education systems
 
 ---
