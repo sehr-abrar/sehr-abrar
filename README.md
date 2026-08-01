@@ -1,8 +1,9 @@
-# Hi, I'm Sehr Abrar 👋
+# Hi, I'm Sehr Abrar (seh / her / ahb / braar) 👋
 
 <img src="https://github.com/sehr-abrar/sehr-abrar/blob/main/profile.jpeg" alt="Sehr Abrar" width="400" align="left" />
 
-🎓 B.S. Computer Science • Macaulay Honors College @ The City College of New York (2026)  
+🏫 Macaulay Honors College @ The City College of New York (2026)  
+🎓 B.S. Computer Science  
 💼 Incoming Technical Business Analyst @ Healthfirst  
 🤖 AI Engineer • ML Systems • Product & Data Builder  
 📍 New York, NY
@@ -27,10 +28,18 @@ Always learning, always building, feel free to connect! ✨
 
 ## 🚀 Featured Projects
 
+### ⚡️ [tenant-power-tracker](https://github.com/PTreasures/grow-with-google-showcase/tree/team-nexus-collaborative)
+A full-stack web app that helps apartment tenants estimate energy use, compare savings scenarios, and receive personalized recommendations using real-world energy datasets.
+
+**Tech:** React, TypeScript, Flask, Python, Vite, Render   
+**Learnings:** Full-stack development, API integration, collaborative software engineering, data-driven product design
+
+---
+
 ### ☕️ [cafehop](https://github.com/saanavig/CafeHop)
 A cross-platform mobile platform that helps users discover local cafes, track visits, earn rewards, and share reviews. Includes AI-powered recommendations and a dual-sided system for both users and cafe owners to engage and grow their presence.
 
-**Tech:** React Native (Expo), TypeScript, Python (Flask), Supabase (PostgreSQL), AI-based recommendation services
+**Tech:** React Native, TypeScript, Flask, Python, Supabase  
 **Learnings:** Frontend development with React Native, designing UX workflows, and integrating and working with APIs
 
 ---
@@ -122,8 +131,3 @@ Causal analysis of surprise gifts on customer spending using an 18,000-customer 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sehrabrar.netlify.app-FF69B4?style=flat&logo=netlify&logoColor=white)](https://sehrabrar.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-sehr--abrar-181717?style=flat&logo=github&logoColor=white)](https://github.com/sehr-abrar)
 
----
-
-## ✨ Fun Fact
-
-Daily Wordle player who built her own Wordle app just to add the features the original didn't have. When I'm not coding, I'm sipping coffee, scrolling TikTok, or binge-watching Netflix, probably all three at once!
