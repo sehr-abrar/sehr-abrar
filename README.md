@@ -1,6 +1,6 @@
 # Hi, I'm Sehr Abrar (seh / her / ahb / braar) 👋
 
-<img src="https://github.com/sehr-abrar/sehr-abrar/blob/main/profile.jpeg" alt="Sehr Abrar" width="400" align="left" />
+<img src="https://github.com/sehr-abrar/sehr-abrar/blob/main/profile.jpeg" alt="Sehr Abrar" width="425" align="left" />
 
 🏫 Macaulay Honors College @ The City College of New York (2026)  
 🎓 B.S. Computer Science  
