@@ -1,28 +1,18 @@
 # Hi, I'm Sehr Abrar (seh / her / ahb / braar) 👋
 
-<img src="https://github.com/sehr-abrar/sehr-abrar/blob/main/profile.jpeg" alt="Sehr Abrar" width="425" align="left" />
+<img src="https://github.com/sehr-abrar/sehr-abrar/blob/main/profile.jpeg" alt="Sehr Abrar" width="350" align="left" />
 
-🏫 Macaulay Honors College @ The City College of New York (2026)  
-🎓 B.S. Computer Science  
-💼 Incoming Technical Business Analyst @ Healthfirst  
-🤖 AI Engineer • ML Systems • Product & Data Builder  
-📍 New York, NY
+`🏫 Macaulay Honors College @ CUNY: City College`  
+`🎓 B.S. Computer Science '26`  
+`💼 Incoming Technical Business Analyst @ Healthfirst`  
+`🤖 AI Engineer • ML Systems • Product & Data Builder`  
+`📍 New York, NY`
 
-I build AI systems and data-driven products that turn complex workflows into practical tools for real people.
+My work spans agentic AI, machine learning, product development, robotics research, and human-computer interaction through roles at Cornell Tech, Estée Lauder, CUNY: Macaulay Honors College, and more.
 
-My work spans agentic AI, machine learning, causal inference, robotics research, and human-computer interaction through roles at Cornell Tech, Estée Lauder, CUNY: Macaulay Honors College, and more.
-
-During undergrad, I founded ACM-Builds and served as President of [ACM @ CCNY](https://ccny.acm.org/), where I grew a 500+ member technical community and led 40+ workshops, speaker events, and mentorship programs.
+During undergrad, I founded [ACM-Builds](https://www.linkedin.com/feed/update/urn:li:activity:7461860402994278400/) and served as President of [ACM @ CCNY](https://ccny.acm.org/), where I grew a 500+ member technical community and led 40+ workshops, speaker events, and mentorship programs.
 
 Always learning, always building, feel free to connect! ✨
-
----
-
-## 🎯 Focus Areas
-- AI201: Applications of AI Engineering @ CodePath
-- Grow with Google: UX Design @ Mentor Me Collective
-- Builder @ Hack Your Summer
-- Building AI and data-driven products for healthcare and education systems
 
 ---
 
@@ -87,6 +77,7 @@ Causal analysis of surprise gifts on customer spending using an 18,000-customer 
 ---
 
 ### 🤖 Data & Machine Learning
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -100,18 +91,20 @@ Causal analysis of surprise gifts on customer spending using an 18,000-customer 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
 
 ---
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipseide)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
