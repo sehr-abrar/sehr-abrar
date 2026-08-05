@@ -109,7 +109,6 @@ Causal analysis of surprise gifts on customer spending using an 18,000-customer 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipseide)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Google](https://img.shields.io/badge/-Google_Suite-4285F4?style=flat&logo=google&logoColor=white)
